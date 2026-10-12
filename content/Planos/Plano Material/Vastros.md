@@ -1,6 +1,4 @@
 
----
-
 ## 1. Visão Geral
 
 Vastros é o continente mais vasto e biologicamente diverso de [[Aldran]], florestas tropicais densas, savanas, vales férteis, cordilheiras que abrigam aldeias escondidas, costas e arquipélagos. É uma rede de quatro povos e civilizações de peso comparável às de [[Nyxar]] e [[Tenebris]], cada uma com domínio científico próprio, interligadas por comércio, rivalidade e conhecimento compartilhado.
@@ -98,5 +96,4 @@ Estatura geralmente baixa, corpos adaptados a ambientes hostis, pele em tons ave
 
 Longevidade de 100 a 120 anos, bem mais curta que Telis ou Veneficus, com mortalidade alta por doença, fera ou conflito. Alguns nascem com dons naturais: empatia espiritual, força extrema, metamorfose parcial.
 
----
 

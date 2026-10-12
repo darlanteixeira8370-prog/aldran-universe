@@ -1,6 +1,4 @@
 
----
-
 ## 1. Visão Geral
 
 Nyxar é o maior e mais diverso continente de [[Aldran]], sede de um império mágico-teocrático-militarista. Sua geografia varia entre desertos, montanhas e florestas densas, organizada em uma capital e quatro territórios.
@@ -77,6 +75,5 @@ Rebeldes da Honra Perdida, guerreiros dissidentes que acreditam que o governo de
 
 Guardada no templo de Kaelis. A escolha de Lorian Fervel em 230 já preenche a primeira condição.
 
----
 
   

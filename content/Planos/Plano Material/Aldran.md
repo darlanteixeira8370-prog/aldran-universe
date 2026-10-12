@@ -1,4 +1,4 @@
-# Aldran: um mundo entre o poder e a ruína
+# **Aldran: um mundo entre o poder e a ruína**
 
 [[Aldran]] é um universo de fantasia sombria construído sobre uma realidade que poucos compreendem por inteiro. Seu mundo não é apenas palco de guerras, deuses e poderes extraordinários, mas o resultado de uma história marcada por descobertas perigosas, verdades distorcidas e sociedades que transformaram suas próprias crenças em instrumentos de poder.
 

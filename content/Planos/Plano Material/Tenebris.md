@@ -1,5 +1,4 @@
 
----
 ## 1. Visão Geral
 
 Tenebris é um continente desolado, de noite predominante, quase o dobro do dia, e dias escurecidos por neblina e tempestades constantes. Território inóspito: florestas congeladas, desertos de gelo, montanhas de gelo. Cidades erguidas em cavernas profundas e fortalezas subterrâneas. Fronteiras marcadas por rituais de proteção e selos arcanos. Zonas de cultivo produzem alimento com dificuldade.
@@ -62,4 +61,4 @@ Templos antigos pontuam o continente, dedicados a Nyx, à face sob a qual os Ten
 
 Nyxarianos são odiados, inimigos históricos, raiz na Guerra da Ruína (ano 57), nascida de escassez de recursos em Tenebris e divergência de crenças sobre a origem da Energia Primordial. Bestiais são amplamente ignorados, por inviabilidade estratégica, relação pouco desenvolvida, em aberto para expansão futura.
 
----
+
