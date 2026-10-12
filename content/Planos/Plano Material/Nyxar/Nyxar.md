@@ -6,7 +6,6 @@
 Nyxar é o maior e mais diverso continente de [[Aldran]], sede de um império mágico-teocrático-militarista. Sua geografia varia entre desertos, montanhas e florestas densas, organizada em uma capital e quatro territórios.
 
 ## 2. Geografia
-
 | Território                      | Capital regional                   | Outras cidades                                                                                                                                    | Especialidade                        |
 | ------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
 | [[Vardrenn]] (capital imperial) | —                                  | [[Vortannis]] (distrito militar), [[Solmora]] (distrito administrativo), [[Dravenkull]] (arena, Ritos de Provação), [[Ferraxis]] (forja lendária) | Centro político e militar do império |
@@ -14,7 +13,6 @@ Nyxar é o maior e mais diverso continente de [[Aldran]], sede de um império m�
 | [[Skolvrae]]                    | [[Fjormund]]                       | [[Norrvarn]], [[Skolmar]] (mosteiro isolado), [[Kaldrenn]]                                                                                        | Magos do gelo                        |
 | [[Alvenrost]]                   | [[Serathenn]] (academia de torres) | [[Velsara]], [[Sythalor]] ("Cidade da Ilusão"), [[Caltheris]] (alquimistas)                                                                       | Academias de magia                   |
 | [[Hadrenn]]                     | [[Hadmora]]                        | [[Branneth]] (agrícola), [[Drennavar]], [[Thalrivos]] (pastagens, cavalos de guerra)                                                              | Celeiro do império                   |
-
   
 
 Outras regiões: [[Skarvenn]] (fortaleza de fronteira nordeste), [[Vildros]] (centro comercial), [[Sareth]] (refúgio acadêmico). [[Ilhas Misteriosas]] permanecem inexploradas, por decisão editorial.
